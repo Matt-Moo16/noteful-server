@@ -1,0 +1,19 @@
+{"message":"path is not defined","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderId\", \"name\") values ($1, $2, $3) returning * - column \"folderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"intFolderId\", \"name\") values ($1, $2, $3) returning * - column \"intFolderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"intFolderId\", \"name\") values ($1, $2, $3) returning * - column \"intFolderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"intFolderId\", \"name\") values ($1, $2, $3) returning * - column \"intFolderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"intFolderId\", \"name\") values ($1, $2, $3) returning * - column \"intFolderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"insert into \"noteful_notes\" (\"content\", \"folderId\", \"name\") values ($1, $2, $3) returning * - column \"folderId\" of relation \"noteful_notes\" does not exist","level":"error"}
+{"message":"path is not defined","level":"error"}
+{"message":"path.posix.jsoin is not a function","level":"error"}
+{"message":"path.posix.json is not a function","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"select * from \"noteful_notes\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"NaN\"","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"noteful_notes\" where \"id\" = ? limit ?","level":"error"}
